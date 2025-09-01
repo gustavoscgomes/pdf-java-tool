@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Ignora a pasta que contém os PDFs de teste ###
+src/main/resources/pdfs/
